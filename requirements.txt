@@ -12,3 +12,6 @@ pdfplumber
 Pillow
 img2pdf
 PyPDF2
+fastapi
+uvicorn
+gunicorn
