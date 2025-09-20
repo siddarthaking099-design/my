@@ -1,0 +1,14 @@
+Flask
+Flask-CORS
+pdf2docx
+docx2pdf
+PyMuPDF
+python-docx
+Werkzeug
+pandas
+openpyxl
+tabula-py
+pdfplumber
+Pillow
+img2pdf
+PyPDF2
