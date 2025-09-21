@@ -1038,6 +1038,8 @@ def unlock_pdf():
 @app.route('/health', methods=['GET'])
 def health_check():
     return jsonify({'status': 'healthy', 'message': 'PDF conversion service is running'})
+# WSGI application for deployment
+application = app
 
 if __name__ == '__main__':
     app.run(debug=True, host='0.0.0.0', port=5000)
