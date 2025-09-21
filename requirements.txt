@@ -13,3 +13,4 @@ img2pdf
 PyPDF2
 reportlab
 gunicorn
+uvicorn[standard]
